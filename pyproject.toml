@@ -1,0 +1,14 @@
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "Gabrielle Pichau", email = "gaparecidapichau@gmail.com"},
+]
+dependencies = [
+    "django>=5.0",
+]
+requires-python = ">=3.10"
+readme = "README.md"
+license = {text = "MIT"}
+
